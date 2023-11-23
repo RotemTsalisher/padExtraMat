@@ -1,0 +1,4 @@
+﻿  padExtraMat.c
+C:\Users\420\source\repos\paddExtraMat\paddExtraMat\padExtraMat.c(123): warning C4172: returning address of local variable or temporary: paddedMat
+C:\Users\420\source\repos\paddExtraMat\paddExtraMat\padExtraMat.c(162): warning C4172: returning address of local variable or temporary: corr
+  paddExtraMat.vcxproj -> C:\Users\420\source\repos\paddExtraMat\x64\Debug\paddExtraMat.exe
